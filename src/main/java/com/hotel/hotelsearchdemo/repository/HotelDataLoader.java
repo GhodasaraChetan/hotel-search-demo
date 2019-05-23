@@ -15,7 +15,6 @@ import org.springframework.stereotype.Component;
 /**
  * Repository to communicate with Hotel info data.
  */
-@Slf4j
 @Component
 public class HotelDataLoader {
 

@@ -11,7 +11,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 @AllArgsConstructor
-@Slf4j
 public class RateLimiter {
 
 	private static final String API_HAS_BEEN_SUSPENDED = "API_HAS_BEEN_SUSPENDED";

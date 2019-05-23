@@ -1,5 +1,5 @@
 # hotel-search-demo
-Demo API for HotelSearch by city
+Demo API for HotelSearch by city (Java + Spring boot)
 
 
 ## Example cURL request:

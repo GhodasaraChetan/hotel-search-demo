@@ -12,7 +12,7 @@
 	<artifactId>hotel-search-demo</artifactId>
 	<version>0.0.1</version>
 	<name>hotel-search-demo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo API for HotelSearch by city (Java + Spring boot)</description>
 
 	<properties>
 		<java.version>1.8</java.version>

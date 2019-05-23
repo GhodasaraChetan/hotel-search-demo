@@ -2,18 +2,18 @@ rate-limiter-config:
   defaultRateConfig:
     limitRequest: 1
     perSeconds: 10
-    waitSeconds: 60
+    waitSeconds: 300
   api-configs:
     - apiKey: service-one
       apiRateConfig:
         limitRequest: 2
         perSeconds: 10
-        waitSeconds: 60
+        waitSeconds: 300
     - apiKey: service-two
       apiRateConfig:
         limitRequest: 10
         perSeconds: 5
-        waitSeconds: 60
+        waitSeconds: 300
     - apiKey: service-three
       apiRateConfig:
         limitRequest: 3
